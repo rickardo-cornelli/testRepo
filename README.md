@@ -1,2 +1,2 @@
 # testRepo
-hej potatoo
+test för db
